@@ -22,3 +22,4 @@ console.log(length);    // ''
 
 var length = str?.length;
 console.log(length);    // 0
+
